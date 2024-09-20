@@ -1,2 +1,5 @@
 i'm conflict
+ HEAD
 form git
+=======
+from git dev
